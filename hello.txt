@@ -6,3 +6,4 @@ hello world,hello git
 hello world,hello git
 hello world,hello git
 hello world,hello git 333
+xxxxx remote pull test
